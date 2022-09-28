@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KevinMX&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="KevinMX's GitHub stats"/>
 
-An university student in China, majors in material science and engineering.
+A university student in China, majors in material science and engineering.
 
 - Speaks Chinese/Mandarin, English is also okay.
 - Currently using Microsoft Windows 10 IoT LTSC & Arch Linux & Debian.
