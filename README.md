@@ -9,7 +9,7 @@ A university student in China, majors in material science and engineering.
 - Loves ACG. And Touhou.
 - Hate those who put emojis everywhere.
 - Love and hate F/L/OSS projects.
-- Do not know how to code except copy and pasting :)
+- Do not know how to code except copying and pasting :)
 - More about me on my website [Re: MX的自留地](https://mary.kevinmx.top/watashi.html)
 
 ## Contact
