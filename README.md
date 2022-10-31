@@ -13,7 +13,7 @@ A university student in China, majors in material science and engineering.
 - More about me on my website [Re: MX的自留地](https://mary.kevinmx.top/watashi.html)
 
 ## Contact
-- Via [E-mail](mailto:maxunknown@protonmail.com)
+- Via [E-mail](mailto:mx@kevinmx.top)
 - Via website comments at [Re: MX的自留地](https://mary.kevinmx.top)
 - Or any other places you can find me...
 
