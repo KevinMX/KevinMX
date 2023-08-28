@@ -3,12 +3,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KevinMX&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="KevinMX's GitHub stats"/>
 
 - Speaks Chinese/Mandarin, English is also okay.
-- Currently using Microsoft Windows 10 IoT LTSC & Arch Linux & Debian. (And also OpenWrt?)
+- Currently using Microsoft Windows 11 Pro Workstation & Windows 10 IoT Enterprise LTSC & Arch Linux & Debian. (And also OpenWrt?)
 - Loves ACG. And Touhou.
 - Hate those who put emojis everywhere.
 - Love and hate F/L/OSS projects.
 - Do not know how to code except copying and pasting :)
-- Currently working for Tarsier team @ PLCT Lab.
+- Currently working for oErv team @ PLCT Lab, ISCAS.
 - More about me on my website [Re: MX的自留地](https://mary.kevinmx.top/watashi.html)
 
 ## Contact
