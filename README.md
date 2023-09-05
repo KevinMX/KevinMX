@@ -2,6 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KevinMX&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="KevinMX's GitHub stats"/>
 
+- You can just call me "MX".
 - Speaks Chinese/Mandarin, English is also okay.
 - Currently using Microsoft Windows 11 Pro Workstation & Windows 10 IoT Enterprise LTSC & Arch Linux & Debian. (And also OpenWrt?)
 - Loves ACG. And Touhou.
