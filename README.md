@@ -5,7 +5,7 @@
 - You can just call me "MX".
 - Don't ask me what "MX" means. I also don't have any idea.
 - Speaks Chinese/Mandarin, English is also okay.
-- Currently using Microsoft Windows 10 IoT Enterprise LTSC & Arch Linux & Debian. (And also OpenWrt?)
+- Currently using Microsoft Windows 11 & Arch Linux & Debian. (And also OpenWrt?)
 - Loves ACG. And Touhou.
 - Hate those who put emojis everywhere.
 - Love and hate F/L/OSS projects.
