@@ -18,5 +18,10 @@
 - Via website comments at [Re: MX的自留地](https://mary.kevinmx.top)
 - Or any other places you can find me...
 
-### Counter
+### Counter and more...
 ![:name](https://count.getloli.com/get/@:Kevin.MX?theme=moebooru)
+
+#### IPv6 Cerfitied Sage!
+<img align="left" src="https://ipv6.he.net/certification/create_badge.php?pass_name=KevinMX&amp;badge=2" style="border: 0; width: 250px; height: 194px" alt="IPv6 Certification Badge for KevinMX"></img>
+
+<img align="left" src="https://ipv6.he.net/certification/create_badge.php?pass_name=KevinMX&amp;badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for KevinMX"></img>
