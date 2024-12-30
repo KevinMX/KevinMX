@@ -10,7 +10,7 @@
 - Hate those who put emojis everywhere.
 - Love and hate F/L/OSS projects.
 - Do not know how to code except copying and pasting :)
-- Currently working for testing team @ PLCT Lab.
+- Currently working for testing/QA team @ PLCT Lab.
 - More about me on my website [Re: MX的自留地](https://mary.kevinmx.top/watashi.html)
 
 ## Contact
